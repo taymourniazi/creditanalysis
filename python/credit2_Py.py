@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-
 #Simple Linear Regression
 #importing libraries
 import numpy as np
