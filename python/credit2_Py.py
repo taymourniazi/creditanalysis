@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 21 15:19:52 2018
 
-@author: asd
-"""
 
 #Simple Linear Regression
 #importing libraries
