@@ -11,3 +11,4 @@ TOTPAY	      Total monthly repayments (£ - of above debt)
 SPINC 	      Applicant’s spouse’s monthly income (£) (. missing)
 MSTATUS	      Marital Status  Married (1) ; unmarried (0)
   
+  
